@@ -1,5 +1,5 @@
 # Jay's Top Modules
-This project extends the [drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project) by adding modules from the popular "Top modules" blog series on Mediacurrent.com. Most of the instructions from that project [readme](https://github.com/drupal-composer/drupal-project) apply here as well.
+This project extends the [drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project) by adding modules from the popular "Top modules" blog series on [Mediacurrent.com](Mediacurrent.com). Most of the instructions from that project [readme](https://github.com/drupal-composer/drupal-project) apply here as well.
 
 This project is meant as an educational tool that will save you time getting setup.
 
